@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+.block1{
+    width: 200px;
+    height: 150px;
+}
+.block2{
+    width: 250px;
+    height: 100px;
+}
+.block3{
+    width: 300px;
+    height: 50px;
+}
+/* 1 */
+/* .red{
+    color: red;
+}
+.blue{
+    color:blue;
+} */
+
+/* 2 */
+/* .r{
+    color: red;
+}
+.b{
+    color:blue;
+} */
+/* .block{
+    width: 300px;
+    height: 300px;
+    box-shadow: 1px 1px 5px 10px black;
+}
+.bcColor{
+ background-color:lightcoral;
+} */

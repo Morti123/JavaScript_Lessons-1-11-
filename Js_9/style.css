@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body{
+   height: 100vh;
+    display: flex;
+    justify-content:  center;
+    align-items: center;
+  }
+  /* 3 */
+/* div{
+    width: 20px;
+    height: 20px;
+} */
+/* 4 */
+/* p{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: black;
+} */
+/* 5 */
+ p{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: black;
+} 
+/* 6 */
+/* p{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+} */
